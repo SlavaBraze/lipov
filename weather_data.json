@@ -1,0 +1,29 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "date": "2026-05-04",
+      "temperature": 10.0,
+      "precipitation": "нет",
+      "description": "нормально"
+    },
+    {
+      "id": 2,
+      "date": "2026-05-04",
+      "temperature": -20.0,
+      "precipitation": "нет",
+      "description": "холодно"
+    },
+    {
+      "id": 3,
+      "date": "2026-05-04",
+      "temperature": -52.0,
+      "precipitation": "да",
+      "description": "лёд"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-05-04 10:26:02",
+    "total_records": 3
+  }
+}
